@@ -2,7 +2,7 @@
 
 This project shows the "Bridge" between Data Science and Security. 
 
-![Mind Map](data-science-security-bridge.png)
+![Mind Map](data-science-security-bridge(1).png)
 
 ## How the Bridge Works (The Dotted Lines) 
 On the map, the **wavy dotted lines** show how the Secuirity Shield protects the Data Work: 
